@@ -19,6 +19,7 @@
         <input type="hidden" name="city" value="<?php echo $city; ?>" />
         <input type="hidden" name="country" value="<?php echo $country; ?>" />
         <input type="hidden" name="state" value="<?php echo $state; ?>" />
+        <input type="hidden" name="udf5" value="<?php echo $udf5; ?>" />
 		<div class="buttons">
     <div class="pull-right"><input type="submit" value="<?php echo $button_confirm; ?>" class="btn btn-primary" /></div>
   </div>
